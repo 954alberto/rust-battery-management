@@ -1,0 +1,6 @@
+[settings]
+capacity = 3.0 # Maximum capacity in MWh
+initial_charge = 1.5 # Initial charge in MWh
+max_rate = 1.5 # Max charging/discharging rate in MW
+efficiency = 0.90 # Efficiency in charging/discharging
+grid_limit = 7800000.0  # Contractual limit of the grid connection in MW
